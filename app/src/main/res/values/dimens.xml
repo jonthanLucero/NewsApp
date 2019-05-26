@@ -1,0 +1,12 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Default screen padding -->
+    <dimen name="list_news_padding">16dp</dimen>
+
+    <!-- Information List TextViews sizes -->
+    <dimen name="section_name">18sp</dimen>
+    <dimen name="section_title">14sp</dimen>
+    <dimen name="publication_date">12sp</dimen>
+</resources>

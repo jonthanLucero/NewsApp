@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App v1.0</string>
+    <string name="webview_name">News</string>
+    <string name="loading_info">Searching News...</string>
+    <string name="not_found_info">There is no News in this moment</string>
+    <string name="no_internet_Connection">There is no Internet Connection or is poor signal...</string>
+    <string name="update">Update</string>
+</resources>

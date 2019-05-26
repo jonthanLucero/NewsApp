@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+    </style>
+
+    <style name="button_color" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">@color/primary_dark_color</item>
+    </style>
+</resources>
